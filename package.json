@@ -1,0 +1,13 @@
+{
+  "name": "@qutum/thisiswherethedreambegins",
+  "version": "1.0.0",
+  "description": "This is where the dream begins!",
+  "main": "src/index.js",
+  "keywords": ["Hello world!"],
+  "author": "量子万象 <qtumone@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/QtumOne/thisiswherethedreambegins"
+  }
+}
