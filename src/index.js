@@ -1,1 +1,1 @@
-export const point = 'This is where the dream begins!';
+export const timeFrame = 'Hello World, this is where the dream begins!';
